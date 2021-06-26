@@ -10,6 +10,7 @@ from plyer import notification, vibrator
 class Manager(ScreenManager):
     pass
 
+
 class Menu(Screen):
     pass
 
